@@ -9,6 +9,6 @@
 #   Run manually with:  sudo ./run
 # --------------------------------------------------------------------------
 
-cd /var/lib/cloud9/EDES301/project_01
+cd /var/lib/cloud9/EDES301/project_01/tug_of_war
 ./configure_pins.sh
 PYTHONPATH=/var/lib/cloud9/EDES301/python/ht16k33 python3 tug_of_war.py
