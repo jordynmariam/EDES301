@@ -70,7 +70,6 @@ If autoboot is set up, just plug in the PocketBeagle and wait about 30 seconds. 
 cd /var/lib/cloud9/EDES301/project_01/tug_of_war
 sudo ./run
 ```
-It has to be run with `sudo` or you'll get permission errors from I2C.
 
 How to play:
 
