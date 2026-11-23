@@ -4,7 +4,7 @@ This is the code for my EDES 301 Project 1, a two-player reaction game on the Po
 
 It's based on the [Whac-a-Mole Game with PocketBeagle](https://www.hackster.io/beaglefriends-octavosystems/whac-a-mole-game-with-pocketbeagle-738a4c) project.
 
-The wiring, parts list, and video are on my Hackster page: [LINK-TO-HACKSTER-PAGE]
+The wiring, parts list, and video are on my Hackster page: https://www.hackster.io/jjm16/reaction-tug-of-war-ca92e1#overview
 
 ## Files
 
