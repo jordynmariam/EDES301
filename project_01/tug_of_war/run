@@ -1,0 +1,14 @@
+#!/bin/bash
+# --------------------------------------------------------------------------
+# Reaction Tug-of-War: Run Script
+# --------------------------------------------------------------------------
+# Copyright 2026 Jordyn Mariam
+# License: see tug_of_war.py (BSD 3-Clause)
+# --------------------------------------------------------------------------
+# Configures the pins and starts the game. Used for autoboot (cron).
+#   Run manually with:  sudo ./run
+# --------------------------------------------------------------------------
+
+cd /var/lib/cloud9/EDES301/project_01/tug_of_war
+./configure_pins.sh
+PYTHONPATH=/var/lib/cloud9/EDES301/python/ht16k33 python3 tug_of_war.py
